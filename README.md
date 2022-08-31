@@ -1,4 +1,4 @@
-# 2023 New Grad Программа в FAANG
+# 2023 New Grad Программа в FAANG и Startups
 
 2023 полный рабочий день начался - пора газовать, и подавать свои анкеты в эти программы!
 
@@ -60,3 +60,57 @@
 | [Amazon](https://www.amazon.jobs/en/jobs/2193324/associate-solutions-architect-early-career-graduate-program) | DE, BE, Berlin | Associate Solutions Architect - Early Career Graduate Program |
 | [Amazon](https://www.amazon.jobs/en/jobs/2192451/expression-of-interest-associate-solutions-architect-thailand) | TH, Bangkok | Expression of Interest - Associate Solutions Architect (Thailand) |
 | [Amazon](https://www.amazon.jobs/en/jobs/2189471/associate-solutions-architect-early-career-graduate-program) | DE, BY, Munich | Associate Solutions Architect - Early Career Graduate Program |
+| [Netflix](https://jobs.netflix.com/jobs/225717269) | Los Gatos, California - Los Angeles, California | New Grad Software Engineer (2023) |
+| [Apple](https://jobs.apple.com/en-us/details/200416238/audio-products-engineering-project-manager-intern?team=STDNT) | Shanghai, Shanghai, China | Audio Products Engineering Project Manager Intern |
+| [Apple](https://jobs.apple.com/en-us/details/200411445/real-estate-development-re-d-construction-project-manager-internship?team=STDNT) | Santa Clara Valley (Cupertino), California, United States | Real Estate & Development (RE&D) - Construction Project Manager Internship |
+| [Apple](https://jobs.apple.com/en-us/details/200410879/real-estate-development-re-d-real-estate-services-internship?team=STDNT) | Santa Clara Valley (Cupertino), California, United States | Real Estate & Development (RE&D) - Real Estate Services Internship |
+| [Apple](https://jobs.apple.com/en-us/details/200418159/finance-internship-jp-kr-demand-forecasting-analysis?team=STDNT) | Tokyo, Tokyo-to, Japan | Finance Internship - JP/KR Demand forecasting & Analysis |
+| [Apple](https://jobs.apple.com/en-us/details/200417800/design-verification-intern-power-management-m-f-d?team=STDNT) | Nabern, Baden-Wurttemberg, Germany | Design Verification Intern - Power Management (m/f/d) |
+| [Apple](https://jobs.apple.com/en-us/details/200416929/ai-ml-devops-engineer-intern-prod-eng-team?team=STDNT) | Shanghai, Shanghai, China | AI/ML - DevOps Engineer intern, Prod Eng team |
+| [Apple](https://jobs.apple.com/en-us/details/200416228/ipad-system-ee-ee-hw-intern?team=STDNT) | Shanghai, Shanghai, China | iPad System EE-EE/HW Intern |
+| [Apple](https://jobs.apple.com/en-us/details/200416234/product-design-engineer-intern-iphone-mechanical?team=STDNT) | Shanghai, Shanghai, China | Product Design Engineer Intern - iPhone (Mechanical) |
+| [Apple](https://jobs.apple.com/en-us/details/200416231/software-engineer-intern-core-os?team=STDNT) | Shanghai, Shanghai, China | Software Engineer Intern(Core OS) |
+| [Apple](https://jobs.apple.com/en-us/details/200416876/sales-internship-fall-2022?team=STDNT) | Tokyo, Tokyo-to, Japan | Sales Internship Fall 2022 |
+| [Apple](https://jobs.apple.com/en-us/details/200415075/design-for-test-intern-m-f-d?team=STDNT) | Munich, Bavaria-Bayern, Germany | Design For Test Intern (m/f/d) |
+| [Apple](https://jobs.apple.com/en-us/details/200414977/design-verification-intern-m-f-d?team=STDNT) | Munich, Bavaria-Bayern, Germany | Design Verification Intern (m/f/d) |
+| [Apple](https://jobs.apple.com/en-us/details/200410714/trade-compliance-intern?team=STDNT) | Beijing, Beijing, China | Trade Compliance Intern |
+| [Apple](https://jobs.apple.com/en-us/details/200411441/real-estate-development-re-d-environmental-health-and-safety-internship?team=STDNT) | Santa Clara Valley (Cupertino), California, United States | Real Estate & Development (RE&D) - Environmental, Health, and Safety Internship |
+| [Apple](https://jobs.apple.com/en-us/details/200406705/formal-verification-intern?team=STDNT) | Saint Albans, Hertfordshire, United Kingdom | Formal Verification Intern |
+| [Apple](https://jobs.apple.com/en-us/details/200393007/mba-internships-summer-2023?team=STDNT) | Santa Clara Valley (Cupertino), California, United States | MBA Internships - Summer 2023 |
+| [Tesla](https://www.tesla.com/careers/search/job/craftsmanship-internship-spring-2023-139834) | Fremont, California | Craftsmanship Internship (Spring 2023) |
+| [Tesla](https://www.tesla.com/careers/search/job/immigration-internship-spring-2023-136753) | AUSTIN, Texas | Immigration Internship (Spring 2023) |
+| [Tesla](https://www.tesla.com/careers/search/job/supercharger-operations-internship-spring-2023-136516) | Palo Alto, California | Supercharger Operations Internship (Spring 2023) |
+| [Tesla](https://www.tesla.com/careers/search/job/product-knowledge-internship-spring-2023-136741) | Fremont, California | Product Knowledge Internship (Spring 2023) |
+| [Tesla](https://www.tesla.com/careers/search/job/business-analyst-internship-spring-2023-136429) | Fremont, California | Business Analyst Internship (Spring 2023) |
+| [Tesla](https://www.tesla.com/careers/search/job/battery-engineering-internship-spring-2023-136543) | AUSTIN, Texas | Battery Engineering Internship (Spring 2023) |
+| [Tesla](https://www.tesla.com/careers/search/job/it-operations-internship-spring-2023-136585) | Fremont, California | IT Operations Internship (Spring 2023) |
+| [Tesla](https://www.tesla.com/careers/search/job/information-security-internship-spring-2023-136582) | Fremont, California | Information Security Internship (Spring 2023) |
+| [Tesla](https://www.tesla.com/careers/search/job/data-engineering-scientist-internship-spring-2023-136573) | Fremont, California | Data Engineering/Scientist Internship (Spring 2023) |
+| [Tesla](https://www.tesla.com/careers/search/job/product-management-internship-spring-2023-136477) | Palo Alto, California | Product Management Internship (Spring 2023) |
+| [Tesla](https://www.tesla.com/careers/search/job/electrical-engineering-internship-spring-2023-136438) | Palo Alto, California | Electrical Engineering Internship (Spring 2023) |
+| [Tesla](https://www.tesla.com/careers/search/job/electrical-design-internship-spring-2023-136435) | Palo Alto, California | Electrical Design Internship (Spring 2023) |
+| [Tesla](https://www.tesla.com/careers/search/job/public-policy-internship-spring-2023-139552) | Washington, District of Columbia | Public Policy Internship (Spring 2023) |
+| [Tesla](https://www.tesla.com/careers/search/job/manufacturing-engineering-internship-spring-2023-136591) | Fremont, California | Manufacturing Engineering Internship (Spring 2023) |
+| [Tesla](https://www.tesla.com/careers/search/job/software-engineering-internship-spring-2023-136642) | Palo Alto, California | Software Engineering Internship (Spring 2023) |
+
+
+## Startups
+| Компания  |  Локация |  Заметки |
+|---|---|-------------|
+|[AlphaLab Capital](https://angel.co/company/alphalab-capital/jobs/2212964-devops-engineer-junior) | Singapore | DevOps Engineer (Junior) at AlphaLab Capital |
+|[AlphaLab Capital](https://angel.co/company/alphalab-capital/jobs/1868365-graduate-software-engineer) | Singapore | Graduate Software Engineer at AlphaLab Capital |
+|[AlphaLab Capital](https://angel.co/company/alphalab-capital/jobs/2212964-devops-engineer-junior) | Poland, Kraków | Junior DevOps Engineer (Poland - Fully Remote) at AlphaLab Capital |
+|[Quicko](https://angel.co/company/quicko/jobs/2305770-full-stack-developer-intern-at-a-fintech-startup) | Ahmedabad | Full stack Developer Intern at a Fintech Startup at Quicko |
+|[Flam](https://angel.co/company/flamapp/jobs/1572236-data-engineering-intern) | Bengaluru | Data Engineering Intern at Flam |
+|[Simyog](https://angel.co/company/simyog/jobs/1818705-software-intern-c-linux-build-test) | Bengaluru | Software Intern - C++, Linux - Build & Test at Simyog |
+|[Simyog](https://angel.co/company/simyog/jobs/2301219-software-intern-c-qt-ui-automation-testing) | Bangalore Urban | Software Intern C++, Qt UI Automation Testing at Simyog |
+|[Kabam Robotics](https://angel.co/company/kabam-robotics/jobs/2263461-product-intern) | Singapore | Product Intern at Kabam Robotics |
+|[Kabam Robotics](https://angel.co/company/kabam-robotics/jobs/1654944-robotics-software-engineering-intern) | Singapore | Robotics/Software Engineering Intern at Kabam Robotics |
+|[Sandbox](https://angel.co/company/sandbox-api/jobs/2306632-full-stack-developer-intern-at-a-fintech-startup) | Ahmedabad | Full Stack Developer Intern at a Fintech Startup at Sandbox |
+|[Switcheo Labs](https://angel.co/company/switcheo-labs/jobs/2356263-graphic-design-intern) | Singapore | Graphic Design Intern at Switcheo Labs |
+|[Switcheo Labs](https://angel.co/company/switcheo-labs/jobs/2187909-backend-developer-intern) | Singapore | Backend Developer Intern at Switcheo Labs |
+|[Switcheo Labs](https://angel.co/company/switcheo-labs/jobs/2187903-frontend-developer-intern) | Singapore | Frontend Developer Intern at Switcheo Labs |
+|[Switcheo Labs](https://angel.co/company/switcheo-labs/jobs/2330544-ui-ux-design-intern) | Singapore | UI/UX Design Intern at Switcheo Labs |
+|[Codemonk](https://angel.co/company/codemonkhq/jobs/2237757-software-engineering-intern-backend) | Bengaluru | Software Engineering Intern - Backend at Codemonk |
+|[Zenduty](https://angel.co/company/zenduty/jobs/2040967-software-intern-backend-python) | Bangalore Urban | Software Intern - Backend(python) at Zenduty |
+|[Zenduty](https://angel.co/company/zenduty/jobs/1811637-software-intern-frontend-react) | Bengaluru | Software intern - Frontend(React) at Zenduty |
