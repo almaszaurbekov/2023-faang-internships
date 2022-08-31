@@ -92,6 +92,10 @@
 | [Tesla](https://www.tesla.com/careers/search/job/public-policy-internship-spring-2023-139552) | Washington, District of Columbia | Public Policy Internship (Spring 2023) |
 | [Tesla](https://www.tesla.com/careers/search/job/manufacturing-engineering-internship-spring-2023-136591) | Fremont, California | Manufacturing Engineering Internship (Spring 2023) |
 | [Tesla](https://www.tesla.com/careers/search/job/software-engineering-internship-spring-2023-136642) | Palo Alto, California | Software Engineering Internship (Spring 2023) |
+| [Twitch](https://www.twitch.tv/jobs/en/careers/6291698002/) | San Francisco, CA | Engineering Intern |
+| [Twitch](https://www.twitch.tv/jobs/en/careers/6291747002/) | San Francisco, CA | Legal Intern |
+| [Twitch](https://www.twitch.tv/jobs/en/careers/6291753002/) | San Francisco, CA | Security Intern |
+| [Twitch](https://www.twitch.tv/jobs/en/careers/6291682002/) | San Francisco, CA | UX Design Intern |
 
 
 ## Startups
@@ -114,3 +118,9 @@
 |[Codemonk](https://angel.co/company/codemonkhq/jobs/2237757-software-engineering-intern-backend) | Bengaluru | Software Engineering Intern - Backend at Codemonk |
 |[Zenduty](https://angel.co/company/zenduty/jobs/2040967-software-intern-backend-python) | Bangalore Urban | Software Intern - Backend(python) at Zenduty |
 |[Zenduty](https://angel.co/company/zenduty/jobs/1811637-software-intern-frontend-react) | Bengaluru | Software intern - Frontend(React) at Zenduty |
+
+## Где найти свою первую работу
+- [themuse.com](https://www.themuse.com/search/)
+- [startupers.com](https://www.startupers.com/)
+- [producthunt.com](https://www.producthunt.com/)
+- [angel.co](https://angel.co/jobs)
